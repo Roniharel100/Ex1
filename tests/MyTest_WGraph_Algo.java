@@ -10,6 +10,9 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Test WGraph_Algo
+ */
 public class MyTest_WGraph_Algo {
     weighted_graph graph;
     weighted_graph_algorithms ga;

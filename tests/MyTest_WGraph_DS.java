@@ -9,6 +9,9 @@ import java.util.Collection;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * Test WGraph_DS
+ */
 public class MyTest_WGraph_DS {
     weighted_graph graph;
 
